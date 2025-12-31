@@ -1,6 +1,6 @@
 using Microsoft.Extensions.Logging;
 
-namespace {{NAMESPACE}}.services;
+namespace weather.services;
 
 public class EchoService
 {

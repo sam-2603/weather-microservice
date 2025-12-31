@@ -1,6 +1,6 @@
 using Microsoft.Extensions.Logging;
 
-namespace {{NAMESPACE}}.services.http;
+namespace weather.services.http;
 
 public class DefaultHttpService
 {

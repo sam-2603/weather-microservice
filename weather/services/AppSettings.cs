@@ -1,4 +1,4 @@
-namespace {{NAMESPACE}}.services;
+namespace weather.services;
 
 public class AppSettings : BaseAppSettings
 {
